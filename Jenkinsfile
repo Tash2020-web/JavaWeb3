@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        DOCKER_HUB_CREDENTIALS = 'Dockerhub'
+        DOCKER_HUB_CREDENTIALS = 'dockerhub'
 
         IMAGE_NAME = 'natashachings/java-web-calculator'
 
